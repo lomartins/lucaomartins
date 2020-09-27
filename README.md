@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 Student
-- 🤖 I'm currently learning Machine Learning and Artificial Inteligence
-- 🗣 Languages: Portuguese and English
+- 🎓 Estudante
+- 🤖 Estou atualmente estudando inteligência artificial e desenvolvimento web.
+- 🗣 Idiomas: Portugues e Inglês.
+- ⚡ Linguagens: Python, C, JavaScript, HTML, CSS.
