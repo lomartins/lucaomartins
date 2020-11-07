@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 Estudante
-- 🤖 Estou atualmente estudando inteligência artificial e desenvolvimento web.
+- 🤖 Estou atualmente estudando desenvolvimento Android.
 - 🗣 Idiomas: Portugues e Inglês.
 - ⚡ Linguagens: Python, C, JavaScript, HTML, CSS.
