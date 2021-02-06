@@ -1,4 +1,4 @@
-### <img src="https://slackmojis.com/emojis/10031-60fps_parrot/download" width="40" height="40"/> I, Lucas Martins, have a dream!
+### I, Lucas Martins, have a dream! <img src="https://slackmojis.com/emojis/10031-60fps_parrot/download" width="40" height="40"/> 
 A passionate android developer. <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/>
 
 <!--
