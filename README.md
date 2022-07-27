@@ -35,10 +35,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" width="52" alt="vim logo"  />
 </div>
-
-###
-<div align="left">
-  <a href="https://open.spotify.com/user/22pjlybw5zqclnxm6dstcqz2i">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22pjlybw5zqclnxm6dstcqz2i&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
